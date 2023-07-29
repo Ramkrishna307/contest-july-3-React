@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contest-july-3-React/static/css/main.3c43ed75.css",
+    "main.js": "/contest-july-3-React/static/js/main.9ee7a10e.js",
+    "index.html": "/contest-july-3-React/index.html",
+    "main.3c43ed75.css.map": "/contest-july-3-React/static/css/main.3c43ed75.css.map",
+    "main.9ee7a10e.js.map": "/contest-july-3-React/static/js/main.9ee7a10e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c43ed75.css",
+    "static/js/main.9ee7a10e.js"
+  ]
+}
